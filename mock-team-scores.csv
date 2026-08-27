@@ -1,0 +1,6 @@
+teamName,nrmse,score,rank
+Best,0.018,45.00,1
+NearBest,0.021,43.96,2
+Middle,0.052,33.19,3
+NearWorst,0.081,23.13,4
+Worst,0.090,20.00,5

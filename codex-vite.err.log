@@ -1,0 +1,24 @@
+$ vite --host 127.0.0.1 "--" "--port" "5174"
+node:internal/fs/watchers:321
+    const error = new UVException({
+                  ^
+
+Error: EBUSY: resource busy or locked, watch 'D:\uon\学生竞赛2.0\vue-platform\public\assets\contest-group-qr-api.js'
+    at FSWatcher.<computed> (node:internal/fs/watchers:321:19)
+    at Object.watch (node:fs:2548:36)
+    at createFsWatchInstance (file:///D:/uon/%E5%AD%A6%E7%94%9F%E7%AB%9E%E8%B5%9B2.0/vue-platform/node_modules/.pnpm/vite@8.1.5/node_modules/vite/dist/node/chunks/node.js:9201:16)
+    at setFsWatchListener (file:///D:/uon/%E5%AD%A6%E7%94%9F%E7%AB%9E%E8%B5%9B2.0/vue-platform/node_modules/.pnpm/vite@8.1.5/node_modules/vite/dist/node/chunks/node.js:9243:14)
+    at NodeFsHandler._watchWithNodeFs (file:///D:/uon/%E5%AD%A6%E7%94%9F%E7%AB%9E%E8%B5%9B2.0/vue-platform/node_modules/.pnpm/vite@8.1.5/node_modules/vite/dist/node/chunks/node.js:9358:20)
+    at NodeFsHandler._handleFile (file:///D:/uon/%E5%AD%A6%E7%94%9F%E7%AB%9E%E8%B5%9B2.0/vue-platform/node_modules/.pnpm/vite@8.1.5/node_modules/vite/dist/node/chunks/node.js:9402:24)
+    at NodeFsHandler._addToNodeFs (file:///D:/uon/%E5%AD%A6%E7%94%9F%E7%AB%9E%E8%B5%9B2.0/vue-platform/node_modules/.pnpm/vite@8.1.5/node_modules/vite/dist/node/chunks/node.js:9576:26)
+Emitted 'error' event on FSWatcher instance at:
+    at FSWatcher._handleError (file:///D:/uon/%E5%AD%A6%E7%94%9F%E7%AB%9E%E8%B5%9B2.0/vue-platform/node_modules/.pnpm/vite@8.1.5/node_modules/vite/dist/node/chunks/node.js:10375:146)
+    at NodeFsHandler._addToNodeFs (file:///D:/uon/%E5%AD%A6%E7%94%9F%E7%AB%9E%E8%B5%9B2.0/vue-platform/node_modules/.pnpm/vite@8.1.5/node_modules/vite/dist/node/chunks/node.js:9581:18) {
+  errno: -4082,
+  syscall: 'watch',
+  code: 'EBUSY',
+  path: 'D:\\uon\\学生竞赛2.0\\vue-platform\\public\\assets\\contest-group-qr-api.js',
+  filename: 'D:\\uon\\学生竞赛2.0\\vue-platform\\public\\assets\\contest-group-qr-api.js'
+}
+
+Node.js v24.18.0

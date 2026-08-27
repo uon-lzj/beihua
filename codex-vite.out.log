@@ -1,0 +1,16 @@
+
+  [32m[1mVITE[22m v8.1.5[39m  [2mready in [0m[1m418[22m[2m[0m ms[22m
+
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://127.0.0.1:[1m5174[22m/[39m
+[2m14:09:37[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles/main.css[22m
+[2m14:09:38[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mpublic/legacy-student-platform.html[22m
+[2m14:09:38[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/App.vue[22m
+[2m14:17:22[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mindex.html[22m
+[2m14:22:53[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/LegacyPlatform.vue[22m
+[2m14:23:10[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles/main.css[22m
+[2m14:36:37[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/AppShell.vue, /src/views/DashboardView.vue, /src/components/ModalHost.vue, /src/views/TaskbookView.vue, /src/views/PrelimView.vue, /src/views/TrainingView.vue, /src/views/TeamView.vue, /src/views/GrandView.vue, /src/views/ScoreView.vue[22m
+[2m14:36:37[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/views/PrelimView.vue[22m
+[2m14:36:37[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/views/DashboardView.vue[22m
+[2m14:38:00[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/views/GrandView.vue[22m
+[2m14:38:53[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mpublic/legacy-student-platform.html[22m
+[ELIFECYCLE] Command failed with exit code 1.
